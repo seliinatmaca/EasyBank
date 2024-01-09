@@ -16,3 +16,4 @@ You can view a live demo of this project [here](https://seliinatmaca.github.io/E
 # Easy-Bank
 # Easy-Bank
 # Easy-Bank
+# Easy-Bank
