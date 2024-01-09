@@ -9,3 +9,4 @@ It was coded using HTML and SCSS technologies.
 <h2> Screenshot </h2>
 
 ![](screen.gif)# EasyBank
+# EasyBank
