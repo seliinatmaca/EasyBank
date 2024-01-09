@@ -8,7 +8,7 @@ It was coded using HTML and SCSS technologies.
 
 <h2> Demo </h2>
 
-You can view a live demo of this project [Proje Demo](https://seliinatmaca.github.io/Easy-Bank)
+You can view a live demo of this project [here](https://seliinatmaca.github.io/Easy-Bank)
 
 <h2> Screenshot </h2>
 
