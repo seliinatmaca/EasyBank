@@ -1,4 +1,4 @@
-<h1> EasyBank </h1>
+<h1> Easy-Bank </h1>
 
 This project is designed to represent a website using HTML and SASS technologies. The use of SCSS has made the CSS code more organized, readable, and manageable, enhancing the overall structure of the website. With responsive design, the interface provides easy and aesthetic use, adapting to every screen size.
 
